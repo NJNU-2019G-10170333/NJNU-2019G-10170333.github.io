@@ -1,5 +1,5 @@
 # 10170333张世钰 GIS算法基础
-===========================
+
 # [简介](https://njnu-2019g-10170333.github.io/index.html)
 ### [跳马](https://njnu-2019g-10170333.github.io/跳马1.html)
 ### [空间对象几何特征编码](https://njnu-2019g-10170333.github.io/姓名编写.html)
